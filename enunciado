@@ -1,0 +1,3 @@
+Desarrollar un programa que me permita obtener el área del circulo circunscrito a un triangulo 
+conformado por 3 puntos dentro de un plano cartesiano, las coordenadas de los puntos que conforman 
+el triángulo deberán ser ingresadas por consola y tendrán las componentes X y Y.
