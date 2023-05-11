@@ -1,6 +1,6 @@
-Desarrollar un programa que permita obtener el área del circulo cuyo centro es el baricentro 
-de un triangulo descrito por tres puntos en el plano cartesiano y que pasa por el punto mas 
-cercano al baricentro.
+Desarrollar un programa que permita obtener el área entre un triángulo exterior y uno interior 
+conformado por dos puntos del triangulo exterior y el baricentro del mismo, el lado mayor del triángulo 
+interior será el lado menor del triangulo exterior
 
 Las coordenadas de los puntos que conforman el triángulo deberán ser ingresadas por consola y 
 tendrán las componentes X y Y.
