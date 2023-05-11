@@ -13,8 +13,6 @@ int main (int argc, char *argv[]) {
     float bx = obtenerBaricentroX(x1,x2,x3);
     float by = obtenerBaricentroX(y1,y2,y3);
 
-    float radio = calcularRadio(x1,y1,bx,by);
-
     calcularArea(radio);
 
     return 0;
